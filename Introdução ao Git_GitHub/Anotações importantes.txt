@@ -1,0 +1,3 @@
+O GitBash abre o controle de versão diretamente na pasta, clicando com o botão direito do mouse e escolhendo a opção GitBash.
+
+Link para Download do git: https://git-scm.com/
